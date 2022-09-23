@@ -4,9 +4,6 @@ import ProjectItem from "./ProjectItem";
 function ProjectList({ projects }) {
   console.log(projects);
 
-  // for (const project of projects){
-
-  // }
 
   return (
     <div id="projects">
